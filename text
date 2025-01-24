@@ -1,0 +1,18 @@
+so in this 
+we are  making a connection in express with MySql but with ORM sequelize
+ in here 
+
+
+ Folder Structure is 
+
+ /models => index.js
+            post.js 
+            User.js
+
+this all file have sequelize db connection and there models(datatype)
+
+/routes =>join.js 
+          postsRoutes.js
+
+and in app.js have  all other api
+
